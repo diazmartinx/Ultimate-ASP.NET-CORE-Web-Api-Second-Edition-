@@ -1,0 +1,12 @@
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Contracts\obj\Debug\net6.0\ref\Contracts.dll
