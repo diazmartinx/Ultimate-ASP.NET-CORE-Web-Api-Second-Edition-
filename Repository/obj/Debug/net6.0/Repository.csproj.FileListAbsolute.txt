@@ -1,0 +1,15 @@
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\bin\Debug\net6.0\Repository.pdb
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\bin\Debug\net6.0\Entities.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\bin\Debug\net6.0\Entities.pdb
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.pdb
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\obj\Debug\net6.0\ref\Repository.dll
