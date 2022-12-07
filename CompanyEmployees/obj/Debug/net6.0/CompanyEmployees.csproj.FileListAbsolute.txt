@@ -91,3 +91,14 @@ C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmploy
 C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Repository.dll
 C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Repository.pdb
 C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Entities.pdb
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\CompanyEmployees.Presentation.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\CompanyEmployees.Presentation.pdb
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.pdb
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\obj\Debug\net6.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Shared.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\Shared.pdb
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\CompanyEmployees\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

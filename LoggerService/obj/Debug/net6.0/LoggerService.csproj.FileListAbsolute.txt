@@ -13,3 +13,5 @@ C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\LoggerService
 C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
 C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\LoggerService\obj\Debug\net6.0\LoggerService.pdb
 C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\LoggerService\bin\Debug\net6.0\Entities.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\LoggerService\bin\Debug\net6.0\Entities.pdb

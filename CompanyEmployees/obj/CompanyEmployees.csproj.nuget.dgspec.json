@@ -4,6 +4,71 @@
     "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
+        "projectName": "CompanyEmployees.Presentation",
+        "projectPath": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Martín\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\CompanyEmployees.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Martín\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -28,6 +93,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj": {
+                "projectPath": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj"
+              },
               "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
                 "projectPath": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
               },
@@ -107,7 +175,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -350,7 +422,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Shared\\Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -409,10 +488,74 @@
               "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Contracts\\Contracts.csproj": {
                 "projectPath": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Contracts\\Contracts.csproj"
               },
+              "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Repository\\Repository.csproj"
+              },
               "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
                 "projectPath": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
               }
             }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Shared\\Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\Martín\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martín\\Desktop\\UltimateAspNetCoreWebApi\\CompanyEmployees\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Martín\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
           }
         },
         "warningProperties": {

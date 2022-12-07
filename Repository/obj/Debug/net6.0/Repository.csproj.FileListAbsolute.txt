@@ -13,3 +13,5 @@ C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\ob
 C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\obj\Debug\net6.0\refint\Repository.dll
 C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\obj\Debug\net6.0\Repository.pdb
 C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\obj\Debug\net6.0\ref\Repository.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.dll
+C:\Users\Martín\Desktop\UltimateAspNetCoreWebApi\CompanyEmployees\Repository\bin\Debug\net6.0\Contracts.pdb
